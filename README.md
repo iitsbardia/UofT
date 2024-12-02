@@ -7,7 +7,7 @@ Welcome to my **University of Toronto Courses Repository**! This is my personal 
 Each folder in this repository corresponds to a course I’ve taken, containing all the materials and work related to that course. The structure is designed to make it easy to navigate and reference any course at any time.
 
 ### Example Structure:
-- **[CSC148](./CSC148/)**: Introduction to Computer Science II
+- **[CSC148](./CSC148/)**: Introduction to Computer Science
   - `Assignments/`
   - `TUTs/`
   - `Preps/`
